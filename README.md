@@ -3,6 +3,8 @@
 ## 0. About
 Create app to detect fake news.
 
+https://fake-news-detector-tz.herokuapp.com/
+
 ### Files
 * **models/**:  scikit-learn models trained in _analysis.ipynb_
 * **analysis.ipynb**: trains model
