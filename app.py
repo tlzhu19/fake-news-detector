@@ -65,5 +65,5 @@ if article_text:
        )
     st.pyplot()
 
-
+st.markdown('_For source code see: https://github.com/tlzhu19/fake-news-detector_')
 
