@@ -1,6 +1,6 @@
 # fake-news-detector
 
-Dataset: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset/data#
+Dataset: https://www.kaggle.com/jruvika/fake-news-detection
 
 This requires using the python Kaggle API to download the dataset. [Steps to set up Kaggle API](https://www.kaggle.com/c/two-sigma-financial-news/discussion/83593):
 1. `pip install kaggle`
