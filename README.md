@@ -1,4 +1,4 @@
-# fake-news-detector
+# Fake News Detector
 
 ## 0. About
 Create app to detect fake news.
